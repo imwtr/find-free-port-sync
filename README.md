@@ -15,7 +15,7 @@ module.exports = {
 ```
 
 # Installation
-```javascript
+```
 npm install find-free-port-sync --save-dev
 ```
 
