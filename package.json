@@ -1,0 +1,23 @@
+{
+  "name": "find-free-port-sync",
+  "version": "1.0.0",
+  "description": "Find free port synchronously, useful when you need to get the port directly without callback.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha __tests__"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imwtr/find-free-port-sync.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imwtr/find-free-port-sync/issues"
+  },
+  "homepage": "https://github.com/imwtr/find-free-port-sync#readme",
+  "devDependencies": {
+    "expect": "^23.6.0",
+    "mocha": "^5.2.0"
+  }
+}
