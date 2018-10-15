@@ -1,4 +1,6 @@
 # Description
+[![Build Status](https://travis-ci.com/imwtr/find-free-port-sync.svg?branch=master)](https://travis-ci.com/imwtr/find-free-port-sync)
+
 Find free port synchronously, useful when you need to get the port directly without callback.
 
 Like config [webpack-dev-server](https://github.com/webpack/webpack-dev-server) with port automatically.
