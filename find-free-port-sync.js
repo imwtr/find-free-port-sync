@@ -1,3 +1,4 @@
+//
 let execSync = require('child_process').execSync;
 
 /**
