@@ -93,7 +93,7 @@ FindFreePortSync.prototype = {
                 encoding: 'utf-8'
             });
 
-            usedPorts = res.match(reg);
+            let usedPorts = res.match(reg);
 
             // special address usage for  ip.port
             if (!usedPorts) {
